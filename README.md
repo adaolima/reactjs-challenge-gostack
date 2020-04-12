@@ -1,4 +1,4 @@
-# 🪓 Ax-grinding series  | ⚛️ ReacJS Concepts
+# 🪓 Ax-grinding series  | ⚛️ ReactJS Concepts
 
 ## 🚀 GoStack exercise by Adão Lima
 
